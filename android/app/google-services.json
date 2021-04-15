@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847526590239",
+    "project_id": "g3-ev-portable",
+    "storage_bucket": "g3-ev-portable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847526590239:android:e87d83afd803f5f210222a",
+        "android_client_info": {
+          "package_name": "com.evrang.g3portable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847526590239-6codaq26f4trqq5ahlk06aibnhbij0gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evrang.g3portable",
+            "certificate_hash": "3fc0626ceac00ef9e2c702d0ca595e4024970363"
+          }
+        },
+        {
+          "client_id": "847526590239-m99ef668da5lamulmem06r3l75sd9ege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewzHiB8MkUQMgCxZJV50hTQRGSFwVZEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847526590239-m99ef668da5lamulmem06r3l75sd9ege.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
